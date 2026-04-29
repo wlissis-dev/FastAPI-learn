@@ -1,4 +1,5 @@
 # 2. Crie o ambiente virtual (garante que as bibliotecas não conflitem com outras)
+# as libs só ficam presentes nesse projeto e não globalmente (esse comando só precisa ser rodado uma vez para criar o ambiente virtual)
 python -m venv venv
 
 # 3. Ative o ambiente virtual
